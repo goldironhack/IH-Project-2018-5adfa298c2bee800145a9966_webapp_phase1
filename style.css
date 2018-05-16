@@ -1,0 +1,75 @@
+body {
+  min-width:575px;
+  width: auto !important;
+  width: 575px;
+    background-color: Khaki ;
+    font-family: 'Montserrat';
+    border-style: none groove none groove;
+}
+
+
+.container-fluid {
+    width: 85%;
+    border-style: none groove none groove;
+    border-width: 65px;
+    border-color: #1a0d00;
+    border-radius: 50px;
+}
+ #map {
+        height: 500px;
+        width: 95%;
+       }
+
+h1.navbar-brand1[href="#"]{
+  font-family: 'Montserrat';
+    font-size: 60px;
+    font-weight: bold;
+    font-size: 5vw;  //ADD MIN AND MAX RESPONSIVE
+    text-align: center !important;
+    margin-right: -5px;
+
+    color: Brown;
+    float: left;
+    letter-spacing: 5vw;
+}
+h1.navbar-brand2[href="#"]{
+  font-family: 'Montserrat';
+    font-size: 60px;
+    font-weight: bold;
+    font-size: 5vw;  //ADD MIN AND MAX RESPONSIVE
+    text-align: center !important;
+    margin-right: -5px;
+    color: LightSkyBlue ;
+    float: left;
+    letter-spacing: 5vw;
+}
+h1.navbar-brand3[href="#"]{
+  font-family: 'Montserrat';
+    font-size: 60px;
+    font-weight: bold;
+    font-size: 5vw;  //ADD MIN AND MAX RESPONSIVE
+    text-align: center !important;
+    margin-right: -5px;
+    color: Maroon;
+    float: left;
+    letter-spacing: 5vw;
+}
+
+
+button[type = "button"]{
+  font-size: 25px;
+  border-radius: 5px;
+  background-color: Maroon;
+  color: #1a0d00;
+  border-color: #331a00;
+  padding: 0px 15px;
+}
+td,th{
+  font-family: 'Montserrat';
+  border-collapse: separate;
+  border: #353B40 3px solid !important;
+  text-align: center !important;
+  background-color: #262A2D;
+  color: white;
+  width: 200px;
+}
